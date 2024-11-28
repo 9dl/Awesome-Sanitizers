@@ -14,6 +14,8 @@ A collection of sanitizer implementations across multiple programming languages,
 The repository contains sanitizers implemented in the following languages:
 
 - **Go**: Available in `golang/`
+- **C#**: Available in `csharp/`
+- **Py**: Available in `python/`
 - *(More languages coming soon!)*
 
 ## Usage 💻
